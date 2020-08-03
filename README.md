@@ -1,2 +1,2 @@
-# cncf_webinar_istio_debugging
+# Introduction
 Configuration samples for CNCF webinar debugging your debugging tools
